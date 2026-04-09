@@ -1,1 +1,1 @@
-# Jay-s-first-repository
+hello github！this is my firstrepo.   Jay-s-first-repository
